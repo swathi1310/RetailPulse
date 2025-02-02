@@ -1,0 +1,6 @@
+statsmodels
+pandas
+numpy
+scikit-learn
+sqlalchemy
+requests
